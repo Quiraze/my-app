@@ -26,4 +26,4 @@ Route::prefix('dashboard')->group(function () {
     Route::view('default', 'welcome')->name('dashboard.index');
 });
 
-Route::view('/welcome', 'welcome')->name('welcome');
+Route::view('/index', 'welcome')->name('welcome');

@@ -1,6 +1,6 @@
 @extends('layouts.admin.master')
 
-@section('title')Sample Page
+@section('title')Ecommerce
  {{ $title }}
 @endsection
 
@@ -10,10 +10,10 @@
 @section('content')
   @component('components.breadcrumb')
     @slot('breadcrumb_title')
-      <h3>Sample Page</h3>
+      <h3>Ecommerce</h3>
     @endslot
     <li class="breadcrumb-item">Pages</li>
-    <li class="breadcrumb-item active">Sample Page</li>
+    <li class="breadcrumb-item active">Ecommerce</li>
   @endcomponent
   
   <div class="container-fluid">
@@ -21,14 +21,14 @@
           <div class="col-sm-12">
               <div class="card">
                   <div class="card-header pb-0">
-                      <h5>Sample Card</h5>
-                      <span>lorem ipsum dolor sit amet, consectetur adipisicing elit</span>
+                      <h5>Welcome</h5>
+                      <span>the pain itself is very important, it will be followed by the adipiscing of the elit</span>
                   </div>
                   <div class="card-body">
                       <p>
-                          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                          commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-                          id est laborum."
+                          "It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work except as some of it
+                          good luck Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding. Unless they are blinded by lust, they do not come forth; they are in fault who forsake their duties and soften their hearts
+                          that's the trouble."
                       </p>
                   </div>
               </div>

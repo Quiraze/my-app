@@ -40,7 +40,7 @@
                     </div>
                   </div>
                   <div class="card-body text-center p-t-0">
-                    <h3 class="font-light">Wellcome Back, John!!</h3>
+                    <h3 class="font-light">Welcome Back, John!!</h3>
                     <p>Welcome to the viho Family! we are glad that you are visite this dashboard. we will be happy to help you grow your business.</p>
                     <button class="btn btn-light">Update</button>
                   </div>
@@ -76,7 +76,7 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="card-body text-center"&gt;
-&lt;h3 class="font-light"&gt;Wellcome Back, John!!&lt;/h3&gt;
+&lt;h3 class="font-light"&gt;Welcome Back, John!!&lt;/h3&gt;
 &lt;p&gt;Lorem ipsum is simply dummy text of the printing and typesetting industry.Lorem ipsum has been&lt;/p&gt;
 &lt;button class="btn btn-light"&gt;Update &lt;/button&gt;
 &lt;/div&gt;
